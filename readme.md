@@ -16,6 +16,7 @@ An awesome list of websites about minimal web design and copious swearing.
 - https://bestmotherfucking.website ([source](https://github.com/KeenRivals/bestmotherfucking.website))
 - https://thebestmotherfucking.website ([source](https://github.com/denysvitali/thebestmotherfuckingwebsite))
 - https://thebestmotherfuckingwebsite.co
+- https://ultimatemotherfuckingwebsite.com
 
 
 ## Others

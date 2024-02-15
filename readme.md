@@ -18,7 +18,6 @@ An awesome list of websites about minimal web design and copious swearing.
 ## Others
 
 - https://github.com/denysvitali/hugo-thebestmotherfuckingblog
-- https://github.com/leonardothehuman/motherfuckingcms
 
 ## Motherfucking Science
 

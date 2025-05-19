@@ -29,3 +29,4 @@ An awesome list of websites about minimal web design and copious swearing.
 ## SFW
 
 - https://justinjackson.ca/words.html ([archive](/archive/justinjackson.ca~words.html))
+- https://www.berkshirehathaway.com
